@@ -107,7 +107,7 @@ button:focus-visible {
 }
 
 /* Mobile adjustments */
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
   body {
     padding: 1rem;
   }
@@ -120,7 +120,7 @@ button:focus-visible {
   .lastline {
     font-size: 1.5rem;
   }
-} */
+}
 
 /* Light mode support */
 @media (prefers-color-scheme: light) {
